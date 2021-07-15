@@ -1,3 +1,13 @@
+/*
+## STL
+1. Write a function that takes collection of numbers and a target number. 
+   It should  find two different elements in the array that, when added together will be equal to target
+   value.Consider std::vector or std::list for input elements, 
+   Return the indices of two elements as std::pair object.
+   If no such pair, whose sum is not equal to target number , return the pair {-1,-1}
+    
+*/
+
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
