@@ -1,3 +1,12 @@
+/*
+## STL
+   
+7. In a given collection(list/vector) of elements, 
+   count no.of elements smaller than their mean
+   count no.of elements larger than their mean
+   and return the absolute difference between both the counts
+*/
+
 #include<iostream>
 #include<vector>
 #include<cstdlib>
