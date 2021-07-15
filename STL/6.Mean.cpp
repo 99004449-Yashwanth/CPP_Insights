@@ -1,3 +1,10 @@
+/*
+## STL
+    
+6. In a given collection(list/vector) of elements, 
+   count no.of elements smaller than their mean
+*/
+
 #include<iostream>
 #include<vector>
 using namespace std;
